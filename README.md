@@ -4,13 +4,13 @@
 The goal of this project is to analyze transactional data from a Brazilian e-commerce platform to understand business performance, customer behavior, and operational efficiency. The analysis focuses on identifying revenue trends, product performance, delivery efficiency, and customer satisfaction using SQL.
 
 ## 📊 Project Overview
-Analyzed ~99K Brazilian e-commerce orders using MySQL to uncover business insights on revenue trends, customer behavior, and operational efficiency.
+Analyzed ~99K Brazilian e-commerce orders using MySQL to uncover insights on revenue trends, customer behavior, and operational efficiency.
 
 ## 🎯 Key Findings
 - **Customer Retention Crisis:** 97% are one-time buyers
 - **Delivery Impact:** Delayed orders score 1.7 points lower (2.57 vs 4.29)
 - **Revenue Leaders:** Health & Beauty (R$ 1.4M), Watches & Gifts (R$ 1.26M)
-- **Geographic Concentration:** São Paulo generates 13.7% of total revenue, showing strong geographic concentration.
+- **Geographic Concentration:** São Paulo alone generates 13.7% of total revenue
 
 ## 📁 Dataset
 - **Source:** [Brazilian E-commerce (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
@@ -20,7 +20,7 @@ Analyzed ~99K Brazilian e-commerce orders using MySQL to uncover business insigh
 ## 🛠️ Tools Used
 - **Database:** MySQL 8.0
 - **SQL Client:** DBeaver
-- **Skills:** JOINs, Window Functions, Subqueries, CASE statements
+- **Skills:** SQL joins, window functions, subqueries, conditional logic
 
 ## 📐 Database Schema
 ![ER Diagram](schema/er_diagram.png)
