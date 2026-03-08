@@ -1,5 +1,8 @@
 # E-commerce Data Analysis Using SQL
 
+## 🎯 Project Objective
+The goal of this project is to analyze transactional data from a Brazilian e-commerce platform to understand business performance, customer behavior, and operational efficiency. The analysis focuses on identifying revenue trends, product performance, delivery efficiency, and customer satisfaction using SQL.
+
 ## 📊 Project Overview
 Analyzed ~99K Brazilian e-commerce orders using MySQL to uncover business insights on revenue trends, customer behavior, and operational efficiency.
 
