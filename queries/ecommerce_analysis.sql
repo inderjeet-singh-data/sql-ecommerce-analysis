@@ -1,4 +1,4 @@
-/*									 =============================================
+/*									   =============================================
     									  			E-COMMERCE DATA ANALYSIS
     									   			Author: INDERJEET SINGH
     									   			Database: MySQL
@@ -109,8 +109,8 @@ total_products|null_category|
 
 
 
-/*									 =============================================
-									 		       SECTION 1: BUSINESS OVERVIEW
+/*									   =============================================
+									 		     SECTION 1: BUSINESS OVERVIEW
 									   =============================================
 
 									 Start with the big picture - understand the business                                        */
@@ -202,8 +202,8 @@ WHERE o.order_status = 'delivered';
 
 
 
-/*											 =============================================
-											    		    SECTION 2: Product Analysis
+/*											   =============================================
+											    		  SECTION 2: Product Analysis
 											   =============================================
 					
 											    	 Which products drive the business?                                                  */
@@ -343,8 +343,8 @@ b60856ce32d90658dbf99b9485327c25|electronics     |      14.96|     9.00|        
  */
 
 
-/*											 =============================================
-											   		    	SECTION 3: Customer Analysis
+/*											   =============================================
+											   			SECTION 3: Customer Analysis
 											   =============================================
 											
 											  		   Understand customer behavior                                                         */
@@ -458,7 +458,7 @@ WHERE rn = 1 AND t.next_mont_purc IS NOT NULL
 
 
 
-/*									     =============================================
+/*									  	       =============================================
 											   		    SECTION 4: Logistics & Delivery
 											   =============================================
 
@@ -545,8 +545,8 @@ approved    |    2|
  */					
 
 
-/*										   =============================================
-											   		    	SECTION 5: Payment Analysis
+/*										  	   =============================================
+											   			SECTION 5: Payment Analysis
 											   =============================================
 
 											  			  How do customers pay?                                                               */
@@ -615,8 +615,8 @@ installments|count|total_value|avg_value|pct_cont|
  */
 
 					
-/*										   =============================================
-											     		  SECTION 6: Customer Satisfaction
+/*											   =============================================
+											    	  SECTION 6: Customer Satisfaction
 											   =============================================
 				
 														   Are customers happy?                                                                */
@@ -693,8 +693,8 @@ On-Time        |        10.88|     4.29|
 Delayed        |        31.39|     2.57|
 */
 
-/*										   =============================================
-											     			SECTION 7: Seller Performance 
+/*										 	   =============================================
+											     		SECTION 7: Seller Performance 
 											   =============================================
 						
 											  			  Who are the top sellers?                                                            */
