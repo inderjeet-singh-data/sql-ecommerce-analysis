@@ -126,10 +126,13 @@ Analyzed ~99K Brazilian e-commerce orders using MySQL to uncover insights on rev
 | On-Time Delivery | 91.9%     |
 | 5-Star Reviews   | 57.8%     |
 
-## 📧 Connect With Me
+## 🔗 Connect With Me
+
 **Inderjeet Singh**  
+Aspiring Data Analyst | SQL | Excel | Power BI
+
 📧 Email: inderjeetsingh152005@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/inderjeet-singh01/  
+💼 LinkedIn: https://www.linkedin.com/in/inderjeet-singh-data/ 
 💻 GitHub: https://github.com/inderjeet-singh-data
 
 ---
