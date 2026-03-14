@@ -136,4 +136,7 @@ Aspiring Data Analyst | SQL | Excel | Power BI
 💻 GitHub: https://github.com/inderjeet-singh-data
 
 ---
+
+**⭐ If you found this project helpful, please consider giving it a star!**
+
 *Portfolio project for Data Analyst positions | March 2026*
